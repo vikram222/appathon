@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: eu-gb.mybluemix.net
+  name: visual arts website
+  host: visual-arts-website
+  disk_quota: 1024M
